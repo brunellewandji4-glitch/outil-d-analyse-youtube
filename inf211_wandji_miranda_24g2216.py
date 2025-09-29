@@ -26,7 +26,7 @@ Original file is located at
 # =========================
 import googleapiclient.discovery
 import googleapiclient.errors
-import google.generativeai as genai
+import google.generativeai as genai 
 from urllib.parse import urlparse, parse_qs
 
 # =========================
